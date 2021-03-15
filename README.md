@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParthCv 
-- 👀 I’m interested in learnig all things coding
+- 👀 I’m interested in learning all things coding
 - 🌱 I’m currently learning java and web dev
 - 📫 How to reach me - parthcv0101@gmail.com
 - 💻 Check out my website - https://parthcv.github.io/MyWebPage/ 
