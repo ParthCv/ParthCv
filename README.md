@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java and web dev
 - 📫 How to reach me - https://www.linkedin.com/in/parth-chaturvedi/ -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ParthCv&&show_icons=true&&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ParthCv&&show_icons=true&&theme=dark" />
 
 
 <!---
