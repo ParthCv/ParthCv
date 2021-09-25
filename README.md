@@ -4,7 +4,7 @@
 - 📫 How to reach me - https://www.linkedin.com/in/parth-chaturvedi/ -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParthCv&&show_icons=true&&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&&text_color=000000&&bg_color=00000000=fffff" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&text_color=000000&bg_color=00000000=fffff" />
 
 <!---
 ParthCv/ParthCv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
